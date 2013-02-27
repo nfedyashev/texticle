@@ -1,3 +1,7 @@
+# CLOSED FOR BUSINESS
+
+Go see https://github.com/textacular/textacular for the new name and official repository.
+
 # texticle
 
 Further documentation available at http://texticle.github.com/texticle.
