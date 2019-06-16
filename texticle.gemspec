@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.license  = 'MIT'
   s.authors  = ['Ben Hamill', 'ecin', 'Aaron Patterson']
   s.email    = ['git-commits@benhamill.com', 'ecin@copypastel.com']
-  s.homepage = 'http://texticle.github.com/texticle'
+  s.homepage = 'https://github.com/texticle/texticle'
 
   s.files         = [
     'CHANGELOG.md',
